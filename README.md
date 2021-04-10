@@ -1,2 +1,3 @@
-# general
-Random thoughts as code.
+# General
+
+Repository to translate random thoughts into code.
